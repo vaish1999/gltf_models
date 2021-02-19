@@ -41,6 +41,11 @@
             ]
         }
     ],
+   "images":[
+       {
+           "uri":"image.png"
+      }
+    ],
     "buffers": [
         {
             "byteLength": 20415724,
