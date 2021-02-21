@@ -1,0 +1,106 @@
+{
+    "asset": {
+        "version": "2.0",
+        "generator": "Open Asset Import Library (assimp v5.0.5eb040c7)"
+    },
+    "accessors": [
+        {
+            "bufferView": 0,
+            "byteOffset": 0,
+            "componentType": 5126,
+            "count": 784142,
+            "type": "VEC3",
+            "max": [
+                380.0,
+                999.0,
+                473.0
+            ],
+            "min": [
+                28.0,
+                7.0,
+                119.0
+            ]
+        },
+        {
+            "bufferView": 1,
+            "byteOffset": 0,
+            "componentType": 5126,
+            "count": 784142,
+            "type": "VEC4",
+            "max": [
+                0.0,
+                0.0,
+                0.0,
+                1.0
+            ],
+            "min": [
+                0.0,
+                0.0,
+                0.0,
+                1.0
+            ]
+        }
+    ],
+    "buffers": [
+        {
+            "byteLength": 21955976,
+            "uri": "result.bin"
+        }
+    ],
+    "bufferViews": [
+        {
+            "buffer": 0,
+            "byteOffset": 0,
+            "byteLength": 9409704,
+            "target": 34962
+        },
+        {
+            "buffer": 0,
+            "byteOffset": 9409704,
+            "byteLength": 12546272,
+            "target": 34962
+        }
+    ],
+    "materials": [
+        {
+            "name": "DefaultMaterial",
+            "pbrMetallicRoughness": {
+                "baseColorFactor": [
+                    0.6000000238418579,
+                    0.6000000238418579,
+                    0.6000000238418579,
+                    1.0
+                ],
+                "metallicFactor": 0.0
+            }
+        }
+    ],
+    "meshes": [
+        {
+            "primitives": [
+                {
+                    "mode": 0,
+                    "material": 0,
+                    "attributes": {
+                        "POSITION": 0,
+                        "COLOR_0": 1
+                    }
+                }
+            ]
+        }
+    ],
+    "nodes": [
+        {
+            "name": "input.obj",
+            "mesh": 0
+        }
+    ],
+    "scenes": [
+        {
+            "nodes": [
+                0
+            ]
+        }
+    ],
+    "scene": 0
+}
